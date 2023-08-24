@@ -17,7 +17,9 @@ Equal to a == b
 
 Not Equal to: a != b
 
+
 You can use these conditions to perform different actions for different decisions.
+
 
 Java has the following conditional statements:
 
@@ -36,6 +38,7 @@ if (condition) {
   
 }
 
+
 The else Statement
 Use the else statement to specify a block of code to be executed if the condition is false.
 
@@ -49,6 +52,7 @@ if (condition) {
   // block of code to be executed if the condition is false
   
 }
+
 
 The else if Statement
 Use the else if statement to specify a new condition if the first condition is false.
@@ -67,6 +71,7 @@ if (condition1) {
   // block of code to be executed if the condition1 is false and condition2 is false
   
 }
+
 
 Source: https://www.w3schools.com/java/java_conditions.asp
 
