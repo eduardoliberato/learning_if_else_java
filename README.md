@@ -27,7 +27,8 @@ Use if to specify a block of code to be executed, if a specified condition is tr
 Use else to specify a block of code to be executed, if the same condition is false
 Use else if to specify a new condition to test, if the first condition is false
 
-The if Statement
+
+--> The if Statement
 Use the if statement to specify a block of Java code to be executed if a condition is true.
 
 Syntax
@@ -39,7 +40,9 @@ if (condition) {
 }
 
 
-The else Statement
+
+
+--> The else Statement
 Use the else statement to specify a block of code to be executed if the condition is false.
 
 Syntax
@@ -54,7 +57,9 @@ if (condition) {
 }
 
 
-The else if Statement
+
+
+-->The else if Statement
 Use the else if statement to specify a new condition if the first condition is false.
 
 Syntax
